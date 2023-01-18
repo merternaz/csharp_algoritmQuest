@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\algorthmQuest\bin\Debug\net7.0\algorthmQuest.exe
+C:\Users\MONSTER\GitProject\algorthmQuest\bin\Debug\net7.0\algorthmQuest.deps.json
+C:\Users\MONSTER\GitProject\algorthmQuest\bin\Debug\net7.0\algorthmQuest.runtimeconfig.json
+C:\Users\MONSTER\GitProject\algorthmQuest\bin\Debug\net7.0\algorthmQuest.dll
+C:\Users\MONSTER\GitProject\algorthmQuest\bin\Debug\net7.0\algorthmQuest.pdb
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.dll
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\refint\algorthmQuest.dll
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.pdb
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\algorthmQuest.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\algorthmQuest\obj\Debug\net7.0\ref\algorthmQuest.dll
