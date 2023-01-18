@@ -11,23 +11,28 @@ namespace MyApp // Note: actual namespace depends on the project name.
             List<int> BolunebilenSayiler=new List<int>();
             List<string>TerstenSıra=new List<string>();
             List<int> KelimeVeHarfSayisi=new List<int>();
-      /*      CiftSayilar=Program.Quest1();
+
+            /*Kullanıcının girmiş olduğu sayılardan çift olanlar*/
+            CiftSayilar=Program.Quest1();
             for(int i=0;i<CiftSayilar.Count;i++){
                 Console.WriteLine(i+1+".nci sayi:"+CiftSayilar[i]);  
             }
 
-*/
-         /*   BolunebilenSayiler=Program.Quest2();
+            /*Kullanıcının girmiş olduğu sayılardan m'e eşit yada tam bölünenleri console'a yazdırma*/
+            BolunebilenSayiler=Program.Quest2();
             for(int i=0;i<BolunebilenSayiler.Count;i++){
                 Console.WriteLine(i+1+".nci sayi:"+BolunebilenSayiler[i]);  
-            }*/
+            }
 
-         /*   TerstenSıra=Program.Quest3();
+
+            /*Kullanıcının girişini yaptığı kelimeleri sondan başa doğru sıralama*/
+            TerstenSıra=Program.Quest3();
             TerstenSıra.Reverse();
             for(int i=0;i<TerstenSıra.Count;i++){
                 Console.WriteLine(i+1+".nci sıra:"+TerstenSıra[i]);  
-            }*/
+            }
 
+            /*Cümledeki toplam kelime ve harf sayısını*/
             KelimeVeHarfSayisi=Program.Quest4();
             Console.WriteLine("Kelime Sayisi:"+KelimeVeHarfSayisi[0].ToString());
             Console.WriteLine("Harf Sayisi:"+KelimeVeHarfSayisi[1].ToString());
@@ -167,27 +172,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
     
 
-       /* public class Quests{
-            public static void Quest1(int x)
-            {
-                
-                if(x>0)
-                {
-                    
-                        for(int i=0;i<5;i++)
-                        {   Console.WriteLine("5 adet sayı girin:");
-                            int a=Console.ReadLine();
-                            
-                            if(a%2==0)
-                            {
-                            Console.WriteLine("sayi:"+a);
-                            }
-
-                        }
-                    
-                }
-            }
-        }*/
+      
         
     }
 }
